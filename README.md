@@ -41,5 +41,13 @@ All future enhancements can be done in Webdriver only.
 **Handling Javascript Alert
 **WebElement validation techniques
 
+4. Techniques to Automate advanced WebUI
+**Handling Ajax/Mouse interaction
+**Handling window, multiple windows
+**Handling Frames
+
+5. Cross Browser Testing with Selenium Grid
+
+
 
 
