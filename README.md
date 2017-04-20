@@ -48,6 +48,9 @@ All future enhancements can be done in Webdriver only.
 
 5. Cross Browser Testing with Selenium Grid
 
+6. Data Driven Testing
+
+7. Synchronization : Implicit Wait and Explicit Wait.
 
 
 
